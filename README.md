@@ -1,4 +1,4 @@
-## 👋 Hello, World!
+# 👋 Welcome to Aqiu's World!
 
 👧我是 Aqiu阿秋，一名充满热情的前端开发工程师，致力于打造美观且功能强大的网页体验。
 
@@ -31,12 +31,13 @@
 
 - ☕ 咖啡深度依赖者，每天靠咖啡续命。
 
-### 📫 联系我
+### 📫 Let's Connect!
 
 - [掘金](https://www.linkedin.com/in/yourprofile)
 - [思否](https://segmentfault.com/u/p1s3zsxc/articles)
 - [CSDN](https://blog.csdn.net/qq_45580642)
 
-### ✨ 期待机会
+### 🙋‍♀️ Open to Opportunities
+I'm always on the lookout for exciting projects and collaborations. If you have an idea or a project that you'd like to discuss, feel free to [reach out📮](mailto:lhq00712@163.com)!
 
-我一直在寻找令人兴奋的项目和合作机会。如果你有任何想法或项目想要讨论，请随时[联系我](lhq00712@163.com)！
+我一直在寻找令人兴奋的项目和合作机会。如果你有任何想法或项目想要讨论，请随时[联系我📮](mailto:lhq00712@163.com)！
